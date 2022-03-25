@@ -1,0 +1,15 @@
+/_targets
+/data
+*.Rproj
+.Rproj.user
+/power
+create2.r
+.Rhistory
+/tables
+/figures
+/rds
+anonymize.py
+*.csv
+*.txt
+*.xlsx
+R/functions.R
